@@ -5,7 +5,7 @@
 <style>
 body {
     font-family: 'Comfortaa';font-size: 22px;
-      background-image: ('.jpg')
+  background-image: url('background-blue.jpg');
 
 }
 </style>
